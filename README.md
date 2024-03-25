@@ -17,7 +17,7 @@ Trabalho da disciplina de Engenharia de Software da turma de 2024.1
 | Ator primário |  Usuário |
 | Atores secundários |  Não possui |
 | Pré-condição | O sistema deve estar disponível e deve possuir uma conta registrada |
-| Pós-condições |  - Se autenticado com sucesso, o usuário é redirecionado para a página inicial do sistema, caso contrario o usuário permanece na página de login com uma mensagem de erro. |
+| Pós-condições |  Se autenticado com sucesso, o usuário é redirecionado para a página inicial do sistema, caso contrario o usuário permanece na página de login com uma mensagem de erro. |
 
 ## Atores:
 - Usuário
