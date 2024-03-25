@@ -10,7 +10,8 @@ Trabalho da disciplina de Engenharia de Software da turma de 2024.1
 - - -
 #### Revisor : @CaesarCrew - João Pedro
 
-
+## Atores:
+- Usuário
 
 | Item | Descrição |
 | ---  | --- |
@@ -64,7 +65,7 @@ Realiza o login dos usuários na plataforma
 | Cadastrar | Redirecionar o usuário para a tela de cadastro |
 | Redefinir senha | Redirecionar o usuário para a tela de Redefinir senha |
 
-***
+---
 
 # RF04 - Cancelar Consultar
 
