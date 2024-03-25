@@ -64,7 +64,7 @@ Realiza o login dos usuários na plataforma
 | Cadastrar | Redirecionar o usuário para a tela de cadastro |
 | Redefinir senha | Redirecionar o usuário para a tela de Redefinir senha |
 
----
+
 
 # RF04 - Cancelar Consultar
 
