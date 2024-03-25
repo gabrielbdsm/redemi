@@ -11,6 +11,7 @@ Trabalho da disciplina de Engenharia de Software da turma de 2024.1
 #### Revisor : @CaesarCrew - João Pedro
 
 
+
 | Item | Descrição |
 | ---  | --- |
 | Caso de Uso | Login |
@@ -28,6 +29,18 @@ Realiza o login dos usuários na plataforma
 1. O usuário acessa a página de login e insere seu nome de usuário ou e-mail e senha.
 2. O sistema verifica as credenciais do usuário.
 3. Se as credenciais forem válidas, o sistema autentica o usuário e o redireciona para a página inicial.
+
+## Fluxos Alternativos:
+
+### Fluxo alternativo 1:
+1. Entra na pagina de login
+2. Usuário seleciona a opção 'Cadastrar'
+3. Usuário é redirecionado para a tela de cadastro
+
+### Fluxo alternativo 2:
+1. Entra na pagina de login
+2. Usuário seleciona a opção 'Redefinição de senha'
+3. Usuário é redirecionado para a tela de redefinição de senha
 
 ## Exceções:
 | Código | Descrição                                        |
