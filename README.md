@@ -47,10 +47,11 @@ Realiza o login dos usuários na plataforma
 ## Opções dos Usuários:
 | Item | Descrição |
 | --- | --- |
-| Login | Verificar se o usuário esta cadastrado no nosso sistema |
+| Logar | Verificar se o usuário esta cadastrado no nosso sistema |
 | Cadastrar | Redirecionar o usuário para a tela de cadastro |
 | Redefinir senha | Redirecionar o usuário para a tela de Redefinir senha |
 
+***
 
 # RF04 - Cancelar Consultar
 
