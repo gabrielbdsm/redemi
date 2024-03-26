@@ -29,12 +29,12 @@ Realiza o login dos usuários na plataforma
 
 ## Fluxos Alternativos:
 
-##### FA01 - Cadastrar:
+#### FA01 - Cadastrar:
 1. Entra na pagina de login
 2. Usuário seleciona a opção 'Cadastrar'
 3. Usuário é redirecionado para a tela de cadastro
 
-##### FA02 - Redefinição de senha:
+#### FA02 - Redefinição de senha:
 1. Entra na pagina de login
 2. Usuário seleciona a opção 'Redefinição de senha'
 3. Usuário é redirecionado para a tela de redefinição de senha
