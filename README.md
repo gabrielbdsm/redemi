@@ -8,7 +8,7 @@ Trabalho da disciplina de Engenharia de Software da turma de 2024.1
 #### Autor: @gabrielbdsm - Gabriel barbosa dos santos martiliano
 
 - - -
-#### Revisor : @CaesarCrew - João Pedro
+#### Revisor : 
 
 | Item | Descrição |
 | ---  | --- |
