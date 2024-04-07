@@ -76,8 +76,7 @@ Realiza o login dos usuários na plataforma
 | Ator primário |  Desenvolvedor |
 | Atores secundários |  Não possui |
 | Pré-condição | O sistema deve estar instalado e configurado para utilizar o Composer.O arquivo configuração deve estar configurado corretamente com as informações de conexão com o banco de dados.Mysql deve está configurado corretamente.|
-| Pós-condições |  O banco de dados está configurado e possui as tabelas necessárias para armazenar informações de usuários, consultas e agendas.
-O sistema de rotas estão configuradas corretamente.
+| Pós-condições |  O banco de dados está configurado e possui as tabelas necessárias para armazenar informações de usuários, consultas e agendas.O sistema de rotas estão configuradas corretamente.
 |
 
 
