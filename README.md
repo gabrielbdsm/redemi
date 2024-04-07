@@ -1,14 +1,12 @@
 # Eng_Soft-Grupo1
 Trabalho da disciplina de Engenharia de Software da turma de 2024.1
 
-
-
 # RF_01 - Realizar Login do Usuário
 
 #### Autor: @gabrielbdsm - Gabriel barbosa dos santos martiliano
 
 - - -
-#### Revisor : 
+#### Revisor : g
 
 | Item | Descrição |
 | ---  | --- |
