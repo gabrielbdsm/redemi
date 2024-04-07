@@ -75,9 +75,7 @@ Realiza o login dos usuários na plataforma
 | Resumo |  Esta requisição detalha a configuração das rotas e do banco de dados para a aplicação de consultas médicas, abrangendo funcionalidades como login, cadastro de usuários, marcação, edição e exclusão de consultas, criação de consultas por usuários e secretárias, e criação de agendas para secretárias.  |
 | Ator primário |  Desenvolvedor |
 | Atores secundários |  Não possui |
-| Pré-condição | O sistema deve estar instalado e configurado para utilizar o Composer.
-O arquivo configuração deve estar configurado corretamente com as informações de conexão com o banco de dados.
-Mysql deve está configurado corretamente.|
+| Pré-condição | O sistema deve estar instalado e configurado para utilizar o Composer.O arquivo configuração deve estar configurado corretamente com as informações de conexão com o banco de dados.Mysql deve está configurado corretamente.|
 | Pós-condições |  O banco de dados está configurado e possui as tabelas necessárias para armazenar informações de usuários, consultas e agendas.
 O sistema de rotas estão configuradas corretamente.
 |
