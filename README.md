@@ -1,7 +1,6 @@
 
 
 
-
 # RF_06 - configuração de roteamento e criação de tabelas do sistema
 
 #### Autor: @gabrielbdsm - Gabriel barbosa dos santos martiliano
