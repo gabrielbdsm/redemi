@@ -1,34 +1,27 @@
-
-
-
-# RF_06 - configuração de roteamento e criação de tabelas do sistema
+# RF_07 - Mostrar horários da agenda
 
 #### Autor: @gabrielbdsm - Gabriel barbosa dos santos martiliano
 
 - - -
-#### Revisor : @CaesarCrew - João Pedro
+#### Revisor : @Hatilancaio - Hátilan
 
 | Item | Descrição |
 | ---  | --- |
-| Caso de Uso | configuração de roteamento e criação de tabelas do sistema |
-| Resumo |  Esta requisição detalha a configuração das rotas e do banco de dados para a aplicação de consultas médicas, abrangendo funcionalidades como login, cadastro de usuários, marcação, edição e exclusão de consultas, criação de consultas por usuários e secretárias, e criação de agendas para secretárias.  |
-| Ator primário |  Desenvolvedor |
+| Caso de Uso | Mostrar horários da agenda |
+| Resumo | 	Esta requisição detalha as etapas para exibir os horários cadastrados na agenda. A funcionalidade permite que a secretária visualize os horários disponíveis. |
+| Ator primário |  Secretária |
 | Atores secundários |  Não possui |
-| Pré-condição | O sistema deve estar instalado e configurado para utilizar o Composer.O arquivo configuração deve estar configurado corretamente com as informações de conexão com o banco de dados.Mysql deve está configurado corretamente.|
-| Pós-condições |  O banco de dados está configurado e possui as tabelas necessárias para armazenar informações de usuários, consultas e agendas.O sistema de rotas estão configuradas corretamente.
-|
-
+| Pré-condição | O sistema deve estar configurado corretamente e a secretária deve ter acesso à funcionalidade de visualização dos horários.|
+| Pós-condições |A secretária visualiza os horários disponíveis na agenda.|
 
 ## Descrição Sucinta:
-Esta requisição define as etapas para configurar as rotas e o banco de dados da aplicação de consultas médicas. O desenvolvedor deve adicionar as rotas necessárias para funcionalidades como login, cadastro de usuários, marcação, edição e exclusão de consultas, criação de consultas por usuários e secretárias, e criação de agendas para secretárias. As informações de conexão com o banco de dados devem ser configuradas no arquivo .env, e as tabelas já estão criadas para armazenar dados de usuários, consultas e agendas..
-
+Esta requisição define as etapas para que a secretária possa visualizar os horários cadastrados na agenda da aplicação. O desenvolvedor deve implementar as funcionalidades necessárias para exibir esses horários de forma clara e organizada.
 
 ## Fluxo principal:
 
-1. O desenvolvedor identifica as funcionalidades que precisam de rotas e decide os caminhos para essas funcionalidades.
-2. O desenvolvedor cria as rotas no arquivo de configuração de rotas da aplicação, como o arquivo router.php.
-3. Para cada rota criada, o desenvolvedor especifica qual método do controlador deve ser chamado quando a rota é acessada
-4. O desenvolvedor configura as informações de conexão com o banco de dados no arquivo de configuração.
+1. A secretária acessa a página de horário.
+2. O sistema exibe os horário cadastrado.
+
 
 ## Fluxos Alternativos:
 N/A
@@ -36,13 +29,11 @@ N/A
 ## Exceções:
 | Código | Descrição                                        |
 |--------|--------------------------------------------------|
-|    |           |
-
+      
 ## Campos do Formulário:
 | Campo | Obrigatório? | Editável? | Formato |
-| --- | --- | --- | --- |
+| --- | --- | --- |--- |
 
 ## Opções dos Usuários:
 | Item | Descrição | Atalho |
 | --- | --- | --- |
-
